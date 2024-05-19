@@ -45,7 +45,7 @@ While my primary focus is on designing the front end of websites, I also develop
               <Link to={"https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXUsZx%2BkBT06pNownOs8ehQ%3D%3D"} target="_blank" data-aos="zoom-in">
                 <FaLinkedin className="hover:text-[#b50030] text-gray-500 transition-all ease duration-300" />
               </Link>
-              <Link to={"https://github.com/jyotipatthak"} target="_blank" data-aos="zoom-in">
+              <Link to={"https://github.com/SemicolonCoders/ebay-webapp"} target="_blank" data-aos="zoom-in">
                 <FaGithub className="hover:text-[#b50009]  text-gray-500 transition-all ease duration-300" />
               </Link>
             </div>
