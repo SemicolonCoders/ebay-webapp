@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/e-bay-webapp/static/css/main.ac2bd18c.css",
-    "main.js": "/e-bay-webapp/static/js/main.de498d15.js",
-    "static/js/453.e85dcd19.chunk.js": "/e-bay-webapp/static/js/453.e85dcd19.chunk.js",
-    "index.html": "/e-bay-webapp/index.html",
-    "main.ac2bd18c.css.map": "/e-bay-webapp/static/css/main.ac2bd18c.css.map",
-    "main.de498d15.js.map": "/e-bay-webapp/static/js/main.de498d15.js.map",
-    "453.e85dcd19.chunk.js.map": "/e-bay-webapp/static/js/453.e85dcd19.chunk.js.map"
+    "main.css": "/ebay-webapp/static/css/main.ac2bd18c.css",
+    "main.js": "/ebay-webapp/static/js/main.ba0a782b.js",
+    "static/js/453.e85dcd19.chunk.js": "/ebay-webapp/static/js/453.e85dcd19.chunk.js",
+    "index.html": "/ebay-webapp/index.html",
+    "main.ac2bd18c.css.map": "/ebay-webapp/static/css/main.ac2bd18c.css.map",
+    "main.ba0a782b.js.map": "/ebay-webapp/static/js/main.ba0a782b.js.map",
+    "453.e85dcd19.chunk.js.map": "/ebay-webapp/static/js/453.e85dcd19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac2bd18c.css",
-    "static/js/main.de498d15.js"
+    "static/js/main.ba0a782b.js"
   ]
 }
