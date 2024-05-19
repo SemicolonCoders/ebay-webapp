@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-bay-webapp/static/css/main.ac2bd18c.css",
+    "main.js": "/e-bay-webapp/static/js/main.de498d15.js",
+    "static/js/453.e85dcd19.chunk.js": "/e-bay-webapp/static/js/453.e85dcd19.chunk.js",
+    "index.html": "/e-bay-webapp/index.html",
+    "main.ac2bd18c.css.map": "/e-bay-webapp/static/css/main.ac2bd18c.css.map",
+    "main.de498d15.js.map": "/e-bay-webapp/static/js/main.de498d15.js.map",
+    "453.e85dcd19.chunk.js.map": "/e-bay-webapp/static/js/453.e85dcd19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2bd18c.css",
+    "static/js/main.de498d15.js"
+  ]
+}
